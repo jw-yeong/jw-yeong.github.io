@@ -1,5 +1,6 @@
 /* CSS comment */
- 
+
+/* rule 1 */
 body {
     background-color: #645aa0;
     color: #ffffff;
@@ -7,20 +8,38 @@ body {
     font-family: georgia;
 }
 
+/* rule 2 */
 h1 {
+    font-size: 32px;
+    color: #aaaabc;
     text-align: center;
+    font-family: georgia;
 }
 
-/* Three types of CSS selectors:
-    1. HTML tags e.g. h1, p
-    2. ID
-       -Should only be used once in HTML
-       -e.g. "header", "footer" sections
-       -use "id" attribute, useable in all HTML tags
-       -In CSS, selector starts with "#"
-    3. Class
-       -Can be used multiple times in HTML
-       -example: styling for warning messages,
- 
- div OR span, followed immediately by id or class
- */
+/* rule 3 */
+h2 {
+    font-size: 24;
+    color: #d1d1e1;
+    font-family: georgia;
+    text-align:center;
+}
+
+/* rule 4 */
+h3 {
+    font-size: 24;
+    color: #d1d1e1;
+    font-family: georgia;
+    margin-bottom:-1%;
+}
+
+/* rule 5 */
+.crawler {
+    font-size: 16;
+    color: #dedede;
+    font-family: courier;
+}
+
+/* rule 6 */
+a {
+    background-color: white;
+}
