@@ -1,5 +1,7 @@
 README
 
+IMPORTANT: THIS ASSIGNMENT IS NOT YET COMPLETE; PLEASE IGNORE THE CURRENT STATE OF THIS REPO/SITE.
+
 Name: YEONG Jian Wei
 This website was created for COMP 20 Assignment 1 at Tufts University.
 
