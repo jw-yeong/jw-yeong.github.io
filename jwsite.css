@@ -18,7 +18,7 @@ h1 {
 
 /* rule 3 */
 h2 {
-    font-size: 24;
+    font-size: 24px;
     color: #d1d1e1;
     font-family: georgia;
     text-align:center;
@@ -26,7 +26,7 @@ h2 {
 
 /* rule 4 */
 h3 {
-    font-size: 24;
+    font-size: 24px;
     color: #aaaabc;
     font-family: georgia;
     margin-bottom:-1%;
@@ -34,12 +34,19 @@ h3 {
 
 /* rule 5 */
 .crawler {
-    font-size: 16;
+    font-size: 16px;
     color: #dedede;
     font-family: courier;
 }
 
 /* rule 6 */
 a {
+    display:block;
     background-color: white;
+    text-align:center;
+}
+
+.imgclass {
+    display: block;
+    margin: 0 auto;
 }
