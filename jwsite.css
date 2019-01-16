@@ -40,7 +40,7 @@ h3 {
 }
 
 /* rule 6 */
-a {
+.button {
     display:block;
     background-color: white;
     text-align:center;
